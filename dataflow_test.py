@@ -36,3 +36,5 @@ with beam.Pipeline(options=options) as p:
         | WriteToText(output_filename)
     )
 
+
+

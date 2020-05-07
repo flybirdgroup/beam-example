@@ -14,8 +14,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-input_filename = "./data/input.txt"
-output_filename = "./data/output.txt"
+input_filename = "./data/input.csv"
+output_filename = "./data/output.csv"
 
 
 options = PipelineOptions()
@@ -81,6 +81,8 @@ class WriteToCSV(beam.DoFn):
                 element[1]['timings'][0]
             )
         ]
+        with open(output_filename,'a') as f:
+            f.write(result[0]+"\n")
         return result
 
 
@@ -117,7 +119,12 @@ if __name__ == '__main__':
                     'users': users
                 } |
                 beam.CoGroupByKey() |
-                beam.ParDo(WriteToCSV()) |
-                WriteToText(output_filename)
+                beam.ParDo(WriteToCSV())
+                # |WriteToText(output_filename)
         )
 
+import pandavro as pdx
+import pandas as pd
+
+df = pd.read_csv(output_filename)
+pdx.to_avro('./data/output.avro',df)

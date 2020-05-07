@@ -2,36 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46b7ec5e-7421-4221-a27b-f1a9796ca253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/avro_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/account_id_schema_new.avro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/account_id_schema_new.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataflow_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/beam/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_count_exxample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/old/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/old/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/old/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__p.y" beforeDir="false" afterPath="$PROJECT_DIR$/old/__init__p.y" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/old/app.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beam/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/beam/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beam/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/config/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/development.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/config/development.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countries.json" beforeDir="false" afterPath="$PROJECT_DIR$/old/countries.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev_requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/dev_requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/generate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pylintrc" beforeDir="false" afterPath="$PROJECT_DIR$/old/pylintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/utils/cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/utils/helpers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/gen_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output.csv-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataflow_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataflow_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/local.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,49 +23,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/local.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="101" column="9" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
+            <state relative-caret-position="417">
+              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
               <folding>
                 <element signature="e#1#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataflow.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1395">
-              <caret line="99" column="42" selection-start-line="95" selection-start-column="8" selection-end-line="99" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataflow_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/avro_test.py">
+        <entry file="file://$PROJECT_DIR$/dataflow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="104" selection-start-line="104" selection-end-line="110" selection-end-column="5" />
+            <state relative-caret-position="211">
+              <caret line="90" column="26" lean-forward="true" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
               <folding>
-                <element signature="e#1#38#0" expanded="true" />
-                <element signature="e#903#928#0" />
-                <element signature="e#2191#2498#0" />
-                <element signature="e#3578#3606#0" />
+                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,6 +57,8 @@
     <findStrings>
       <find>China</find>
       <find>print</find>
+      <find>Bermuda</find>
+      <find>Chris Batie</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,25 +67,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dataflow.py" />
         <option value="$PROJECT_DIR$/beam/views.py" />
         <option value="$PROJECT_DIR$/word_count_exxample.py" />
-        <option value="$PROJECT_DIR$/local.py" />
         <option value="$PROJECT_DIR$/data/output.csv-00000-of-00001" />
-        <option value="$PROJECT_DIR$/dataflow_test.py" />
         <option value="$PROJECT_DIR$/avro_test.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/beam-example.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Google_App_Engine_SDK.xml" />
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/dataflow_test.py" />
+        <option value="$PROJECT_DIR$/data/gen_data.py" />
+        <option value="$PROJECT_DIR$/local.py" />
+        <option value="$PROJECT_DIR$/data/output.csv" />
+        <option value="$PROJECT_DIR$/dataflow.py" />
       </list>
     </option>
   </component>
@@ -166,20 +110,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/old/config" />
       <recent name="$PROJECT_DIR$/old" />
       <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -195,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.avro_test">
+  <component name="RunManager" selected="Python.local">
     <configuration name="avro_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="beam-example" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,6 +156,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avro_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="beam-example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataflow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,8 +285,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.avro_test" />
         <item itemvalue="Python.local" />
+        <item itemvalue="Python.dataflow" />
+        <item itemvalue="Python.avro_test" />
         <item itemvalue="Python.word_count_exxample" />
         <item itemvalue="Python.views" />
       </list>
@@ -337,22 +306,23 @@
       <workItem from="1588668452749" duration="13856000" />
       <workItem from="1588752273780" duration="13032000" />
       <workItem from="1588805852756" duration="2560000" />
+      <workItem from="1588816265720" duration="8155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29448000" />
+    <option name="totallyTimeSpent" value="37603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40419948" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22572179" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,7 +331,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32939634" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33114034" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20734908" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -369,6 +339,29 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40288714" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32939634" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20734908" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -377,7 +370,8 @@
     <SUITE FILE_PATH="coverage/beam_example$avro_test.coverage" NAME="avro_test Coverage Results" MODIFIED="1588808742585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/beam_example$word_count_exxample.coverage" NAME="word_count_exxample Coverage Results" MODIFIED="1588753277543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/beam_example$views.coverage" NAME="views Coverage Results" MODIFIED="1588687069344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beam" />
-    <SUITE FILE_PATH="coverage/beam_example$local.coverage" NAME="local Coverage Results" MODIFIED="1588753425303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/beam_example$dataflow.coverage" NAME="dataflow Coverage Results" MODIFIED="1588819136154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/beam_example$local.coverage" NAME="local Coverage Results" MODIFIED="1588826567583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/old/names.txt">
@@ -408,13 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20895">
           <caret line="1441" selection-start-line="1441" selection-end-line="1441" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -475,10 +462,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/input.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="1004" column="30" lean-forward="true" selection-start-line="1004" selection-start-column="30" selection-end-line="1004" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apache_beam/venv/lib/python3.6/site-packages/prometheus_client/exposition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="198" column="4" selection-start-line="198" selection-start-column="4" selection-end-line="198" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avro_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#1#38#0" expanded="true" />
+            <element signature="e#903#928#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output.csv-00000-of-00001">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../apache_beam/venv/lib/python3.6/site-packages/apache_beam/io/textio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="588" column="56" selection-start-line="588" selection-start-column="56" selection-end-line="588" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output.avro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/gen_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataflow_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/output.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/local.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="101" column="9" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
+        <state relative-caret-position="417">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
           <folding>
             <element signature="e#1#38#0" expanded="true" />
           </folding>
@@ -487,40 +554,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataflow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="99" column="42" selection-start-line="95" selection-start-column="8" selection-end-line="99" selection-end-column="42" />
+        <state relative-caret-position="211">
+          <caret line="90" column="26" lean-forward="true" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataflow_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/output.csv-00000-of-00001">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/avro_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="104" selection-start-line="104" selection-end-line="110" selection-end-column="5" />
-          <folding>
-            <element signature="e#1#38#0" expanded="true" />
-            <element signature="e#903#928#0" />
-            <element signature="e#2191#2498#0" />
-            <element signature="e#3578#3606#0" />
           </folding>
         </state>
       </provider>
