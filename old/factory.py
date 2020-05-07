@@ -1,6 +1,6 @@
 import flask
-from utils.helpers import load_configuration
-from beam import dataflow_bp
+from old.utils import load_configuration
+from old.beam import dataflow_bp
 
 
 def create_app(cfg=None):

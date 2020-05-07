@@ -1,6 +1,5 @@
 import os
-from config import development
-from datetime import datetime
+from old.config import development
 
 
 def load_configuration():
